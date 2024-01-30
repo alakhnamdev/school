@@ -1,0 +1,22 @@
+{
+  "name": "arcadiawebsite",
+  "version": "1.0.0",
+  "description": "Website for the Arcadia School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeetrex/Arcadia-School-Website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Abhijit Ganguly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeetrex/Arcadia-School-Website/issues"
+  },
+  "homepage": "https://github.com/jeetrex/Arcadia-School-Website#readme"
+}
